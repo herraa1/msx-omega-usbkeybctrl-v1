@@ -3,7 +3,7 @@
 This is a rebuild of [Censlab's USB-keyboard-to-OMEGA-converter](https://github.com/Censlab/USB-keyboard-to-OMEGA-converter) using KiCad with some slight modifications.
 
 > [!Note]
-> Sillicony became Censlab on January 2004.
+> Sillicony became Censlab on January 2024.
 
 ## Introduction
 
